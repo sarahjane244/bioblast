@@ -1,0 +1,14 @@
+{
+  "session": 1,
+  "title": "Glycolysis",
+  "location": "Cytosol",
+  "machine": "Glycolysis Blender",
+  "tip": "Glycolysis happens in the cytosol and does not require oxygen.",
+  "orders": [
+    {"customer":"Glucose","question":"I am the fuel that begins cellular respiration. Prepare a Glucose Smoothie!","type":"prepare","recipe":"Glucose Smoothie","ingredients":["Glucose"],"explanation":"Glucose is the starting fuel for glycolysis.","output":"Glucose enters glycolysis in the cytosol."},
+    {"customer":"Pyruvate","question":"Make me from glucose using glycolysis.","type":"prepare","recipe":"Pyruvate Energy Snack","ingredients":["Glucose","ADP","Phosphate"],"explanation":"Glycolysis splits glucose into two pyruvate, making 2 NADH and a net gain of 2 ATP.","output":"2 pyruvate + 2 NADH + net 2 ATP"},
+    {"customer":"Enzyme","question":"What speeds up chemical reactions in cells?","type":"choose","options":["Enzyme","Oxygen","Water"],"answer":"Enzyme","explanation":"An enzyme is a biological catalyst that speeds up chemical reactions."},
+    {"customer":"Glucose","question":"Which cell location hosts glycolysis?","type":"choose","options":["Cytosol","Mitochondrial matrix","Nucleus"],"answer":"Cytosol","explanation":"Glycolysis takes place in the cytosol."},
+    {"customer":"Pyruvate","question":"Does glycolysis require oxygen?","type":"choose","options":["No, oxygen is not required","Yes, oxygen is required","Only in mitochondria"],"answer":"No, oxygen is not required","explanation":"Glycolysis does not require oxygen."}
+  ]
+}

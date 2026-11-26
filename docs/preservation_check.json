@@ -1,0 +1,49 @@
+{
+  "status": "passed",
+  "changed_original_source_files": [
+    "pubspec.yaml",
+    "lib/gsessions.dart",
+    "lib/hub.dart",
+    "lib/rounds.dart",
+    "lib/gen_ui.dart",
+    "lib/s2.dart",
+    "lib/gen_sim.dart",
+    "lib/gdata_c.dart",
+    "lib/explore.dart",
+    "lib/learn.dart",
+    "lib/learn_list.dart",
+    "lib/gdata_a.dart",
+    "lib/gdata_b.dart",
+    "lib/play.dart",
+    "lib/simulate.dart",
+    "lib/gmodels.dart"
+  ],
+  "unchanged_original_files": 190,
+  "verified_byte_identical_modules": [
+    "lib/main.dart",
+    "lib/home.dart",
+    "lib/common.dart",
+    "lib/teacher_login.dart",
+    "lib/teacher_dashboard.dart",
+    "lib/online_teacher.dart",
+    "lib/student_account.dart",
+    "lib/cloud_sync.dart",
+    "lib/role_entry.dart",
+    "lib/cell_cafe.dart",
+    "lib/shop.dart",
+    "lib/ui_kit.dart",
+    "lib/visuals.dart",
+    "lib/art.dart"
+  ],
+  "omitted_source_files": [],
+  "excluded_generated_folders": [
+    "build",
+    ".dart_tool",
+    ".gradle",
+    ".idea"
+  ],
+  "excluded_machine_generated_files": [
+    "local.properties",
+    ".flutter-plugins-dependencies"
+  ]
+}

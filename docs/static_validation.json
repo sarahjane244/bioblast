@@ -1,0 +1,196 @@
+{
+  "status": "passed",
+  "scope": "Static content and Dart grammar checks only; no Flutter compilation or device execution",
+  "dart_syntax": "passed for all lib/*.dart files",
+  "referenced_card_images": 57,
+  "sessions": [
+    {
+      "session": 1,
+      "title": "Introduction to Cellular Respiration",
+      "cards": 22,
+      "round_items": [
+        6,
+        5,
+        6
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "atp": 31,
+          "co2": 1,
+          "water": 1
+        }
+      ]
+    },
+    {
+      "session": 2,
+      "title": "Raw Materials and Site of Cellular Respiration",
+      "cards": 8,
+      "round_items": [
+        8,
+        6,
+        6
+      ],
+      "max_coins": 1000,
+      "simulation_outputs": []
+    },
+    {
+      "session": 3,
+      "title": "Glycolysis: The Sugar Split",
+      "cards": 8,
+      "round_items": [
+        6,
+        5,
+        6
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "spent": 2,
+          "net": 2,
+          "made": 4,
+          "nadh": 2,
+          "pyruvate": 2
+        }
+      ]
+    },
+    {
+      "session": 4,
+      "title": "Preparing for the Krebs Cycle",
+      "cards": 10,
+      "round_items": [
+        6,
+        5,
+        6
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "acetyl": 2,
+          "co2": 2,
+          "nadh": 2
+        }
+      ]
+    },
+    {
+      "session": 5,
+      "title": "Krebs Cycle: The Energy Wheel",
+      "cards": 8,
+      "round_items": [
+        6,
+        6,
+        5
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "co2": 2,
+          "atp": 1,
+          "nadh": 3,
+          "fadh2": 1
+        }
+      ]
+    },
+    {
+      "session": 6,
+      "title": "Electron Transport Chain: The Power Relay",
+      "cards": 8,
+      "round_items": [
+        6,
+        5,
+        6
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "nadplus": 1,
+          "hplus": 0,
+          "water": 1,
+          "atp": 27
+        }
+      ]
+    },
+    {
+      "session": 7,
+      "title": "ATP Formation: Powering the Cell",
+      "cards": 3,
+      "round_items": [
+        6,
+        5,
+        6
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "spent": 2,
+          "made": 33,
+          "net": 31,
+          "nadh": 0,
+          "co2": 6,
+          "fadh2": 0,
+          "nad": 10,
+          "fad": 2,
+          "water": 1
+        },
+        {
+          "spent": 2,
+          "made": 4,
+          "net": 2,
+          "nadh": 0,
+          "nad": 2,
+          "lactic": 2
+        },
+        {
+          "spent": 2,
+          "made": 4,
+          "net": 2,
+          "nadh": 0,
+          "nad": 2,
+          "ethanol": 2,
+          "co2": 2
+        }
+      ]
+    },
+    {
+      "session": 8,
+      "title": "Cellular Respiration: Connecting the Stages",
+      "cards": 8,
+      "round_items": [
+        6,
+        5,
+        6
+      ],
+      "max_coins": 850,
+      "simulation_outputs": [
+        {
+          "spent": 2,
+          "made": 33,
+          "net": 31,
+          "nadh": 0,
+          "co2": 6,
+          "fadh2": 0,
+          "nad": 10,
+          "fad": 2,
+          "water": 1
+        },
+        {
+          "spent": 2,
+          "made": 4,
+          "net": 2,
+          "nadh": 0,
+          "nad": 2,
+          "lactic": 2
+        },
+        {
+          "spent": 2,
+          "made": 4,
+          "net": 2,
+          "nadh": 0,
+          "nad": 2,
+          "ethanol": 2,
+          "co2": 2
+        }
+      ]
+    }
+  ]
+}
